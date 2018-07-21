@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
-public class HTMLUnitDriverConcept {
+public class ChromeHeadlessDriver {
 
 	public static void main(String[] args) {
 		//headless browser
