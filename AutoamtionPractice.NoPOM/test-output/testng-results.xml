@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-24T02:56:15Z" name="Default suite" finished-at="2018-07-24T02:56:16Z" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2018-07-24T02:56:15Z" name="Default test" finished-at="2018-07-24T02:56:16Z" duration-ms="60">
+      <class name="TestNgAnnotations">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="launchBrowser" finished-at="2018-07-23T22:56:15Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="connectToDB()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="connectToDB" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDB -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="deleteCookies" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method signature="test2_homepageElementTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="test2_homepageElementTest" finished-at="2018-07-23T22:56:15Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_homepageElementTest -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="login" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="test3_homepageElementTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="test3_homepageElementTest" finished-at="2018-07-23T22:56:15Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_homepageElementTest -->
+        <test-method is-config="true" signature="closingTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="closingTest" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTest -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="login" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closingTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:15Z" name="closingTest" finished-at="2018-07-23T22:56:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTest -->
+        <test-method signature="test1_homepageTitleTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:16Z" name="test1_homepageTitleTest" finished-at="2018-07-23T22:56:16Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_homepageTitleTest -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:16Z" name="login" finished-at="2018-07-23T22:56:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closingTest()[pri:0, instance:TestNgAnnotations@38e79ae3]" started-at="2018-07-23T22:56:16Z" name="closingTest" finished-at="2018-07-23T22:56:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTest -->
+      </class> <!-- TestNgAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
